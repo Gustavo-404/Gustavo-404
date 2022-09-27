@@ -12,11 +12,11 @@
 <br>
 <br>
 
-I'm a Brazilian programming student! I am studying Systems Analysis and Development.
+I'm a Brazilian systems analyst and developer!.
 <br>
 <br>
 Currently I'm focused on...
 <br>
-- 🔭 Working on Personal Projects.
+- 🔭 Angular
+- 🔭 NestJS
 - 💻 Solve problems
-- 🌱 Learning Java.
