@@ -42,8 +42,4 @@ development, (eg jira, figma, linux...).\
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
